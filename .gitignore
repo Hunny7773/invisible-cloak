@@ -5,7 +5,7 @@
 __pycache__/
 *.py[cod]
 
-# Testing
+# Pytest
 .pytest_cache/
 .coverage
 htmlcov/
@@ -14,13 +14,13 @@ htmlcov/
 .vscode/
 .idea/
 
-# OS files
-.DS_Store
-Thumbs.db
-
 # Environment files
 .env
 .env.*
+
+# OS files
+.DS_Store
+Thumbs.db
 
 # Logs
 *.log
