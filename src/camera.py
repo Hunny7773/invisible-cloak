@@ -7,6 +7,7 @@ from config import (
 )
 
 
+
 class Camera:
     """Handles webcam input."""
 
